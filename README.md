@@ -1,5 +1,6 @@
 # 👋 안녕하세요, 임베디드 소프트웨어 개발자 김기환입니다.
 ### 🔧 하드웨어부터 AI까지, 경계를 잇는 엔지니어
+![3_반명함(3x4cm)](https://github.com/user-attachments/assets/abdf06e4-6e18-45a6-b04b-7d013703c46a)
 
 저는 **임베디드 시스템과 AI 융합 기술**을 기반으로  
 지능형 자동차와 스마트 디바이스를 개발하는 것을 목표로 하고 있습니다.  
@@ -10,10 +11,10 @@
 ## 🧩 기술 스택
 
 **언어**  
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)![STM32](https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=STMicroelectronics&logoColor=white)![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 **임베디드 플랫폼**  
-`Raspberry Pi (Pi 5)` `STM32 (F4/F1)` `Arduino` `ESP32`
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)![STM32](https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=STMicroelectronics&logoColor=white)![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 **시스템 & 도구**  
 `Linux (Ubuntu, Yocto)` `CAN-Bus (MCP2515)`  
