@@ -1,12 +1,12 @@
 # 👋 안녕하세요, 임베디드 소프트웨어 개발자 김기환입니다.
 ### 🔧 하드웨어부터 AI까지, 경계를 잇는 엔지니어
 
-![3_반명함(3x4cm)](https://github.com/user-attachments/assets/abdf06e4-6e18-45a6-b04b-7d013703c46a)
+
 
 <table>
   <tr>
     <td>
-      <img src="사진파일경로.jpg" width="250"/>
+      <img src="![3_반명함(3x4cm)](https://github.com/user-attachments/assets/651e0a43-08bf-46e0-ad29-db212675c95e)" width="250"/>
     </td>
     <td style="vertical-align: middle; padding-left: 20px; border-left: 2px solid #ccc;">
       <p><strong>저는 임베디드 시스템과 AI 융합 기술</strong>을 기반으로<br>
